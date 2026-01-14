@@ -1,0 +1,8 @@
+{
+  "name": "OneMobile Shopify Builder",
+  "description": "A high-performance drag-and-drop mobile app builder for Shopify merchants, featuring a real-time preview, component library, and unified API export.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
